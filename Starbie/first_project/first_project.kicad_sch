@@ -2499,7 +2499,7 @@
 		)
 		(uuid "a221d7b3-913f-4bfa-b6b3-fb702ccd63c4")
 	)
-	(label "GPI03"
+	(label "GPIO3"
 		(at 86.36 119.38 180)
 		(effects
 			(font
